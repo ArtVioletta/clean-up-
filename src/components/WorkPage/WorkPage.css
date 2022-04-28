@@ -1,18 +1,16 @@
-
 .work {
-    color:#4E3DFF ;
-    display:flex;
-    justify-content: center;
+  color: #4e3dff;
+  display: flex;
+  justify-content: center;
 }
 
 .WorkWrapper {
-    color:#393939 ;
-    display:flex;
-    justify-content: center;
+  color: #393939;
+  display: flex;
+  justify-content: center;
 }
 
-.container{
-    padding-top: 90px;
-    padding-bottom: 90px;
+.container {
+  padding-top: 90px;
+  padding-bottom: 90px;
 }
-

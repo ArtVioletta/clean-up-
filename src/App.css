@@ -3,18 +3,17 @@ html {
   height: 100vh;
 }
 
-body, #root {
+body,
+#root {
   width: 100%;
   height: 100%;
 }
 
-
-.LogoWrapper{
+.LogoWrapper {
   display: flex;
 }
 
-
-.logoText{
+.logoText {
   display: flex;
   flex-direction: column;
   margin-left: 10px;

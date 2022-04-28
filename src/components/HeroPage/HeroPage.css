@@ -1,134 +1,127 @@
-.background{
-    background-image: url("../../../public/kercher1.png");
-    background-color: #FFD53F;
-    height: 100%;
-    width: 100%;
-    background-repeat: no-repeat;
-    position: relative;
-    background-position: right;
-    background-size: 50%;
+.background {
+  background-image: url("../../../public/kercher1.png");
+  background-color: #ffd53f;
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  position: relative;
+  background-position: right;
+  background-size: 50%;
 }
 
 .container-full {
-    width: 100%;
-    height: max-content;
-    background-color: #FFD53F;
+  width: 100%;
+  height: max-content;
+  background-color: #ffd53f;
 }
 
 .container-xl {
-    width: 1220px;
-    height: max-content;
-    min-height: 914px;
-    position: relative;
-    margin: auto;
-    padding: 0px 15px;
+  width: 1220px;
+  height: max-content;
+  min-height: 914px;
+  position: relative;
+  margin: auto;
+  padding: 0px 15px;
 }
 
 .karcher {
-    position: absolute;
-    right: 0px;
-    top: 0px;
-    width: 665px;
-    height: auto;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 665px;
+  height: auto;
 }
 
-.Logo{
-    width: 46px;
-    height: 46px;
-    display: flex;
+.Logo {
+  width: 46px;
+  height: 46px;
+  display: flex;
 }
 
 .header {
-    width: 100%;
-    max-width: 689px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    box-sizing: border-box;
-    padding: 20px 0px;
-    padding-top: 50px;
-
+  width: 100%;
+  max-width: 689px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-sizing: border-box;
+  padding: 20px 0px;
+  padding-top: 50px;
 }
 
-.navWrapper{
-    margin-left: 60px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
+.navWrapper {
+  margin-left: 60px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
 }
 
-.navlink{
-    font-size: 15px;
-    margin-right: 37px;
+.navlink {
+  font-size: 15px;
+  margin-right: 37px;
 }
 
-.explore{
-    margin-top: 200px;
-    flex-direction: column;
-    font-size: 32px;
-    color: #393939;
-    margin-bottom: 30px;
+.explore {
+  margin-top: 200px;
+  flex-direction: column;
+  font-size: 32px;
+  color: #393939;
+  margin-bottom: 30px;
 }
 
-.dateButton{
-    background-color: transparent;
-    width: 218px;
-    height: 51px;
-    color: rgba(78, 61, 255, 1);
-    border-radius: 20px;
-    border: 1px solid #4E3DFF;
+.dateButton {
+  background-color: transparent;
+  width: 218px;
+  height: 51px;
+  color: rgba(78, 61, 255, 1);
+  border-radius: 20px;
+  border: 1px solid #4e3dff;
 }
 
-.buttons{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    margin-bottom: 270px;
-
+.buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 270px;
 }
 
-.ellipse{
-    margin-left: 49px;
-    color: #878787;
+.ellipse {
+  margin-left: 49px;
+  color: #878787;
 }
-
 
 .help {
-    width: 100%;
-    height:max-content;
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
+  width: 100%;
+  height: max-content;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
 }
 
 .contactWrapper {
-    flex-direction: row;
-    display: flex;
+  flex-direction: row;
+  display: flex;
 }
 
 .contactWrapper div + div {
-    margin-left: 30px;
+  margin-left: 30px;
 }
 
-
 .contactData {
-    display: flex;
-    height: max-content;
-    align-items: center;
+  display: flex;
+  height: max-content;
+  align-items: center;
 }
 
 .text {
-    margin-bottom: 15px;
-    margin: 0px;
-    color: #4E3DFF;
+  margin-bottom: 15px;
+  margin: 0px;
+  color: #4e3dff;
 }
 
-.text-jed{
-    margin: 0px;
+.text-jed {
+  margin: 0px;
 }
 
-.arrow{
-
+.arrow {
 }
-
-
