@@ -1,0 +1,45 @@
+.containerWrapper{
+    background-color: #FFD53F;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    display: flex;
+}
+
+.support{
+    width: 277px;
+    height: 35px;
+    border-radius: 20px;
+    display:flex;
+    margin-right: 120px;
+    align-items: center;
+    border: 2px solid black;
+
+}
+
+.button{
+    margin-left: 15px;
+    width: 60%;
+    justify-content: flex-end;
+}
+
+.image{
+    width: 40%;
+    height: 100%;
+    display: flex;
+    background-color: black;
+    border-radius: 0 20px 20px 0;
+    justify-content: center;
+    align-items: center;
+}
+
+.logoVector {
+    width: 24px;
+    height: 24px;
+}
+
+.headerContainer{
+    padding-left: 120px;
+}

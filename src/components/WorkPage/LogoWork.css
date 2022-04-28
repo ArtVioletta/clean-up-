@@ -1,0 +1,46 @@
+.time {
+    width: 1220px;
+    font-size: 32px;
+    color: #393939;
+    min-height: 50px;
+    margin: auto;
+    align-items: center;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+
+.logoTwo{
+    width: 117px;
+    height: 107px;
+    margin: 15px;
+
+}
+
+.wrapper{
+    color: rgba(78, 61, 255, 1) ;
+    margin: 0px;
+    font-size: 25px;
+}
+
+.textWrapper{
+    color:rgba(57, 57, 57, 1);
+    font-size: 15px;
+
+}
+
+.timeClean{
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 300px;
+}
+
+.timeClean * {
+    text-align: center;
+}
+
