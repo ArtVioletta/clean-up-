@@ -1,8 +1,8 @@
 import React from "react";
-import { Work } from "./LogoWork";
-import "./LogoWork.css";
+import "../LogoWork/LogoWork.css";
+import { IWork } from "../../../shared/interfaces/IWork";
 
-export const Clean: React.FC<Work> = (props) => {
+export const Clean: React.FC<IWork> = (props) => {
   return (
     <div className={"timeClean"}>
       <div>

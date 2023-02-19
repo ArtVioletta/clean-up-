@@ -1,6 +1,6 @@
 import React from "react";
 import "./WorkPage.css";
-import LogoWork from "./LogoWork";
+import LogoWork from "../LogoWork/LogoWork";
 
 const WorkPage = () => {
   return (

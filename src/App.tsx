@@ -1,9 +1,9 @@
 import React from "react";
 import "./App.css";
-import HeroPage from "./components/HeroPage/HeroPage";
-import WorkPage from "./components/WorkPage/WorkPage";
-import Service from "./components/Service/Service";
-import Footer from "./components/Footer/Footer";
+import HeroPage from "./components/pages/HeroPage/HeroPage";
+import WorkPage from "./components/pages/WorkPage/WorkPage";
+import Service from "./components/pages/Service/Service";
+import Footer from "./components/pages/Footer/Footer";
 
 function App() {
   return (

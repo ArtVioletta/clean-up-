@@ -1,7 +1,7 @@
 import React from "react";
 import "./Footer.css";
-import Logo from "../HeroPage/Logo";
 import Header from "../HeroPage/Header";
+import Vector from "../../../assets/svg/Vector.svg";
 
 const Footer = () => {
   return (
@@ -12,7 +12,7 @@ const Footer = () => {
       <div className={"support"}>
         <span className={"button"}>Email address</span>
         <span className={"image"}>
-          <img src={"Vector.svg"} alt={"logoTg"} className={"logoVector"} />
+          <img src={Vector} alt={"logoTg"} className={"logoVector"} />
         </span>
       </div>
     </div>

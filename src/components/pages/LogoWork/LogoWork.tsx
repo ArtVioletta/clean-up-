@@ -1,27 +1,25 @@
 import React from "react";
 import "./LogoWork.css";
-import { Clean } from "./Clean";
-
-export interface Work {
-  image: string;
-  content: string;
-  text: string;
-}
+import { IWork } from "../../../shared/interfaces/IWork";
+import meditation from "../../../assets/svg/meditation.svg";
+import { Clean } from "../WorkPage/Clean";
+import time from "../../../assets/svg/time.svg";
+import service from "../../../assets/svg/service.svg";
 
 const LogoWork = () => {
-  const data: Work[] = [
+  const work: IWork[] = [
     {
-      image: "time.svg",
+      image: time,
       content: "Book a time",
       text: "Tell us the time and place",
     },
     {
-      image: "service.svg",
+      image: service,
       content: "Verified service",
       text: "A team of professionals is coming\n" + " and clears your place.",
     },
     {
-      image: "meditation .svg",
+      image: meditation,
       content: "Relax",
       text: "Enjoy life and come back\n" + "to a clean place",
     },
@@ -29,7 +27,7 @@ const LogoWork = () => {
 
   return (
     <div className={"time"}>
-      {data.map((el) => (
+      {work.map((el) => (
         <Clean image={el.image} content={el.content} text={el.text} />
       ))}
     </div>

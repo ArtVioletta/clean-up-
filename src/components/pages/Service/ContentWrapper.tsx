@@ -1,9 +1,9 @@
 import React from "react";
 import "./Service.css";
-import { ContentWrap } from "./Content";
 import "./ContentWrapper.css";
+import { IContentWrap } from "../../../shared/interfaces/IContentWrap";
 
-const ContentWrapper: React.FC<ContentWrap> = (props) => {
+const ContentWrapper: React.FC<IContentWrap> = (props) => {
   return (
     <div className={"cleaning"}>
       <img className={"cleanWash"} src={props.image} alt={"wash"} />

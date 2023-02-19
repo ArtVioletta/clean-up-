@@ -1,5 +1,5 @@
 .background {
-  background-image: url("../../../public/kercher1.png");
+  background-image: url("/src/assets/images/kercher1.png");
   background-color: #ffd53f;
   height: 100%;
   width: 100%;
@@ -117,6 +117,10 @@
   margin-bottom: 15px;
   margin: 0px;
   color: #4e3dff;
+}
+
+.textLogoPage {
+  margin-left: 15px;
 }
 
 .text-jed {

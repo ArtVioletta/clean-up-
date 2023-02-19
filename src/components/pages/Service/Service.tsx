@@ -8,9 +8,8 @@ const Service = () => {
       <div>
         <h1 className={"serviceUp"}>Our service</h1>
         <p>
-          {" "}
           Cleaning helps you be productive by giving <br />
-          you time to focus on what matters most.{" "}
+          you time to focus on what matters most.
         </p>
       </div>
       <Content />
