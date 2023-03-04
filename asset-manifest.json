@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/clean-up-/static/css/main.476faf67.css",
+    "main.js": "/clean-up-/static/js/main.8e31f3c8.js",
+    "static/js/787.1abeaa70.chunk.js": "/clean-up-/static/js/787.1abeaa70.chunk.js",
+    "static/media/kercher1.png": "/clean-up-/static/media/kercher1.5f0bfb51198f6b7e78e9.png",
+    "static/media/house2.svg": "/clean-up-/static/media/house2.30146d23c952c198f365354fe671b6c3.svg",
+    "static/media/home.svg": "/clean-up-/static/media/home.bffbe9bd52f5a4452d53c65ca7a3999d.svg",
+    "static/media/beds3.svg": "/clean-up-/static/media/beds3.9d31ad9cdcce1184200b3bd17a57d860.svg",
+    "static/media/logo1.svg": "/clean-up-/static/media/logo1.74646cd7777cb94faf1948aef9e41c0c.svg",
+    "static/media/service.svg": "/clean-up-/static/media/service.17537a5dcf1ef937987a7e426a8d4666.svg",
+    "static/media/Group4.svg": "/clean-up-/static/media/Group4.30eb2bfb46a801962399c4833176bf92.svg",
+    "static/media/meditation.svg": "/clean-up-/static/media/meditation.dfb14a509afb93bad7cdf10a41d72f85.svg",
+    "static/media/wash5.svg": "/clean-up-/static/media/wash5.ba5537b15430abf805a2ab55ef7d079e.svg",
+    "static/media/clean.svg": "/clean-up-/static/media/clean.27a018a7d4e3f2a0878e421ed09b10f8.svg",
+    "static/media/time.svg": "/clean-up-/static/media/time.b72dba256ea0f9b7e0018f8b85e6d531.svg",
+    "static/media/calendar.svg": "/clean-up-/static/media/calendar.841d849269ae71bf5c26ed54d40e2a15.svg",
+    "static/media/Vector.svg": "/clean-up-/static/media/Vector.28b1bec6266d71fc5d0445c12e0ae323.svg",
+    "static/media/downArrow1.svg": "/clean-up-/static/media/downArrow1.a41de0d94c668e683cb1237aa26e7762.svg",
+    "static/media/call.svg": "/clean-up-/static/media/call.c9cbffff426116c10b9d4405f18bf868.svg",
+    "index.html": "/clean-up-/index.html",
+    "static/media/email.svg": "/clean-up-/static/media/email.d4e71951d7e119f1477c5106e2ff8fcd.svg",
+    "static/media/play.svg": "/clean-up-/static/media/play.6fc637c369746f000a2e6844365e0d6c.svg",
+    "main.476faf67.css.map": "/clean-up-/static/css/main.476faf67.css.map",
+    "main.8e31f3c8.js.map": "/clean-up-/static/js/main.8e31f3c8.js.map",
+    "787.1abeaa70.chunk.js.map": "/clean-up-/static/js/787.1abeaa70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.476faf67.css",
+    "static/js/main.8e31f3c8.js"
+  ]
+}
